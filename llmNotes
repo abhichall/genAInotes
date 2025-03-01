@@ -18,3 +18,7 @@ Essentially, LLM's can be trained to perform any tasks.
 1. **Open Source**: Many companies provide APIs that allow you to integrate LLMs into your applications. Examples include OpenAI's GPT-3, Google's BERT, and others.
 2. **Pre-trained Models**: You can use pre-trained models available in libraries such as Hugging Face's Transformers. These models can be fine-tuned for specific tasks.
 3. **Custom Training**: If you have specific requirements, you can train your own LLM using frameworks like TensorFlow or PyTorch. This requires a large dataset and significant computational resources.
+
+Generative AI is a subset of a larger picture:
+
+![alt text](https://github.com/microsoft/generative-ai-for-beginners/blob/main/01-introduction-to-genai/images/AI-diagram.png?WT.mc_id%3Dacademic-105485-koreyst)
